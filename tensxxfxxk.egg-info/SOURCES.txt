@@ -1,0 +1,6 @@
+README.md
+setup.py
+tensxxfxxk.egg-info/PKG-INFO
+tensxxfxxk.egg-info/SOURCES.txt
+tensxxfxxk.egg-info/dependency_links.txt
+tensxxfxxk.egg-info/top_level.txt
